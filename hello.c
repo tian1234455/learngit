@@ -3,4 +3,6 @@ printf("helloworld");
 
 nihao
 OK
-B is A APPLE
+
+B is a apple
+
